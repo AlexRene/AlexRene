@@ -1,7 +1,7 @@
  - 👋 Hi, I’m @AlexRene
 - 👀 I’m interested in Data Science and Machine Learning or anything related to web development 
-- 🌱 I’m currently learning Data Science tools and models of Machine Learning
-- 💞️ I’m looking to collaborate on projects where i can apply what i'm learning about Data Science
+- 🌱 I’m currently learning Dart and Flutter
+- 💞️ I’m looking to collaborate on projects where i can apply my knowledge
 - 📫 How to reach me: alexrene742oliveira@gmail.com
 
 <div>
