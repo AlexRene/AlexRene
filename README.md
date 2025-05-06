@@ -15,7 +15,7 @@
 
 ---
 
-### 🧠 Sobre Mim
+### 👨🏻‍💻 Sobre Mim
 
 Profissional com grande interesse em **Inteligência Artificial** com experiência em desenvolver soluções end-to-end que impactam negócios reais. Minha jornada inclui:
 
@@ -32,43 +32,18 @@ Profissional com grande interesse em **Inteligência Artificial** com experiênc
 
 ### 🛠️ Arsenal Tecnológico
 
-#### 🤖 Linguagens
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img align="left" alt="C Sharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+#### 💻 Linguagens
 
-<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,dart,c,java,php,t&theme=light)](https://skillicons.dev)
+<br>
+#### 🚀 Frameworks
 
-#### 📱 Frameworks
-<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="PostgreSql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg"/>
-<br><br>
+[![My Frameworks](https://skillicons.dev/icons?i=flutter,next,express,react,pytorch,scikitlearn,prisma,tensorflow&theme=light)](https://skillicons.dev)
+<br>
 
 #### ⚙️ DevOps & Ferramentas
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
 
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,nodejs,firebase,postgres,postman,androidstudio,mysql,t&theme=light)](https://skillicons.dev)
 
 <br><br>
 
@@ -78,11 +53,10 @@ Profissional com grande interesse em **Inteligência Artificial** com experiênc
 ### 📈 Minhas Métricas
 
 <div align="center">
-  
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexRene&show_icons=true&theme=radical&hide=issues)
-  
-  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRene&layout=compact&theme=radical)
-  
+
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=AlexRene&show_icons=true&theme=radical&hide=issues) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRene&layout=compact&theme=radical) |
+| ------------- | ------------- |
+
 </div>
 
 ---
