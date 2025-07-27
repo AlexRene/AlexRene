@@ -34,11 +34,11 @@ Profissional com grande interesse em **Inteligência Artificial** com experiênc
 
 #### 💻 Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,dart,c,java,php,t&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,dart,c,cs,java,php,t&theme=light)](https://skillicons.dev)
 <br>
 #### 🚀 Frameworks
 
-[![My Frameworks](https://skillicons.dev/icons?i=flutter,next,express,react,pytorch,scikitlearn,prisma,tensorflow&theme=light)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=flutter,unity,next,express,react,pytorch,scikitlearn,prisma,tensorflow&theme=light)](https://skillicons.dev)
 <br>
 
 #### ⚙️ DevOps & Ferramentas
